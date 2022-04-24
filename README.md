@@ -6,14 +6,9 @@ Le thème de cet atelier était la détection d'anomalie lors d'entraînement de
 
 L'étude s'est porté sur une durée proche d'un an lors de laquelle on a mesuré plusieurs variables (fréquence cardiaque, vitesse,...) chaques seconde de chaque entraînements. Le cycle menstruel et les ressenties physiques (blessures, fatigues,...) ont également étés suivis quotidiennement.
 
-Cette étude a alimenté deux dataframes pour chaque cycliste : l'un contient les informations sur les entraînements et les menstruations et est structuré comme suit : 0
+Cette étude a alimenté deux dataframes pour chaque cycliste : l'un contient les informations sur les entraînements et les menstruations. 
+L'autre contient les informations sur le ressentie de l'athlète en question (sous forme de questionnaire).
 
-
-###### image 
-
-L'autre contient les informations sur le ressentie de l'athlète en question (sous forme de questionnaire) et est structuré comme suit. 
-
-#### image
 
 Pour des raisons de confidentialité nous ne pouvons mettre en ligne les données, cependant vous trouverez les notebooks auquels avaient accès les participants de cet atelier. 
 
@@ -21,11 +16,8 @@ Sont également disponibles dans ce repo les notebooks de plusieurs participants
 
 Parmis eux, Juliana nous a présenté son approche utilisant un modèle de chaîne de Markov cachée pour identifier les états cachés les plus probables.
 
-François s'est lui aussi intéressé à la vraisemblance d'une série (une série étant l'ensemble des points que forme un entraînement). Grâce à tensorflow_probability qui renvoie une distribution 
-En supposant que la variable à prédire suit une loi normale le module renvoie la distribution 
+François s'est lui aussi intéressé à la vraisemblance d'une série -une série étant l'ensemble des points que forme un entraînement- mais a adopté une approche utilisant un réseau de neurone. Le modèle construit prédit le rythme cardiaque de l'athlète que nous pouvons comparer avec les vraies fréquences cardiaques et identifier les anomalies. 
 
-Series en deça de la vraisemblance = outliers
+Florent a proposé................. 
 
-Méthode pour calculer la vraisemblance ? 
-
-
+Vous trouverez les notebooks associés dans le dossier "notebooks participants" et les moments clés de la journée sur notre chaine youtube : <https://www.markdownguide.org> 
