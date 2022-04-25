@@ -1,6 +1,6 @@
 # 2204-INSEP-TimeSeries
 
-# Bienvenue sur le repo associé  notre atelier en collaboration avec l'INSEP sur les Time Series. 
+### Bienvenue sur le repo associé  notre atelier en collaboration avec l'INSEP sur les Time Series. 
 
 Le thème de cet atelier était **la détection d'anomalie lors d'entraînement de cyclistes féminines de haut niveau**. En particulier le but était d'établir ou non un impact des menstruations sur les performances des athlètes. 
 
