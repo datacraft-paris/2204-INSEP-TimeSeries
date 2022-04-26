@@ -8,12 +8,14 @@ Les données mises à disposition par l'INSEP concernaient deux athlètes et s'�
 
 À partir de ces données, pour chacune des deux cyclistes, l'équipe de datacraft a constitué deux jeux de données formatées prêts à l'emploi. L'un représentait essentiellement les données numériques des mesures faites pendant les entraînements, avec l'adjonction d'informations textuelles comme la phase du cycle (folliculaire, ovulatoire ou lutéale). L'autre jeu de données les réponses aux questionnaires sur les ressentis de l'athlète, données principalement textuelles mais qui se prêtaient facilement au 'label-encoding'.
 
-Pour des raisons de confidentialité nous ne pouvons pas mettre ces données à disposition et vous invitons à vous rapprocher de l'INSEP <span style="color: red">I am red</span> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` si vous êtes intéressés par le projet Empow'her.
-Pour des raisons de confidentialité nous ne pouvons mettre en ligne les données, cependant vous trouverez les notebooks auquels avaient accès les participants de cet atelier. 
+Pour des raisons de confidentialité nous ne pouvons pas mettre ces données à disposition et vous invitons à vous rapprocher de l'INSEP ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `suggestion : ici, il faudrait peut-être un lien vers le site de l'INSEP, du projet Empow'her, une adresse mail ou quelque chose, pour aiguiller l'utilisateur` si vous êtes intéressé par le projet Empow'her.  
+Toutefois, dans ce dépôt nous mettons à disposition deux ensembles de notebooks. Dans le dossier **notebooks-datacraft** se trouvent les notebooks que nous avons développés pour formater les données ainsi que pour en faire une première exploration. Dans le dossier **notebooks-atelier** se trouvent les codes développés par les participants[^1] pour que vous puissiez apprécier les méthodes mises en application, et éventuellement vous en inspirer, voire les reprendre pour vos projets.
 
-Sont également disponibles dans ce repo les notebooks de plusieurs participants qui ont pu présenté leur approche du problème et leurs résultats. 
+[^1] : Seulement les notebooks des participants qui ont présenté leur approche en fin d'atelier.
 
-Parmi eux, Juliana nous a présenté son approche utilisant un modèle de *chaîne de Markov cachée* pour identifier les états cachés les plus probables.
+
+Parmi eux, Juliana Pegoraro ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `suggestion : je pense qu'il est important de mettre le prénom ET le nom de la personne !!` nous a présenté son approche utilisant un modèle de *chaîne de Markov cachée* pour identifier les états cachés les plus probables.  
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `suggestion : dans l'idéal il faudrait envoyer un mail à Juliana pour lui demander si elle accepte qu'on mette un lien qui permette de la joindre, par exemple : juliana.a.pegoraro@gmail.com, https://map5.mi.parisdescartes.fr/seminairesMAP5/exposes/juliana-pegoraro/, https://www.linkedin.com/in/juliana-pegoraro/?originalSubdomain=fr`
 
 François s'est lui aussi intéressé à la vraisemblance d'une série -une série étant l'ensemble des points que forme un entraînement- mais a adopté une approche utilisant un *réseau de neurone*. Le modèle construit prédit le rythme cardiaque de l'athlète que nous pouvons comparer avec les vraies fréquences cardiaques et identifier les anomalies. 
 
