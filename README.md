@@ -13,7 +13,7 @@ Pour des raisons de confidentialité nous ne pouvons mettre en ligne les donnée
 
 Sont également disponibles dans ce repo les notebooks de plusieurs participants qui ont pu présenté leur approche du problème et leurs résultats. 
 
-Parmis eux, Juliana nous a présenté son approche utilisant un modèle de *chaîne de Markov cachée* pour identifier les états cachés les plus probables.
+Parmi eux, Juliana nous a présenté son approche utilisant un modèle de *chaîne de Markov cachée* pour identifier les états cachés les plus probables.
 
 François s'est lui aussi intéressé à la vraisemblance d'une série -une série étant l'ensemble des points que forme un entraînement- mais a adopté une approche utilisant un *réseau de neurone*. Le modèle construit prédit le rythme cardiaque de l'athlète que nous pouvons comparer avec les vraies fréquences cardiaques et identifier les anomalies. 
 
