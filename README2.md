@@ -11,7 +11,7 @@ Les données mises à disposition par l'INSEP concernaient deux athlètes et s'�
 Pour des raisons de confidentialité nous ne pouvons pas mettre ces données à disposition et vous invitons à vous rapprocher de l'INSEP ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `suggestion : ici, il faudrait peut-être un lien vers le site de l'INSEP, du projet Empow'her, une adresse mail ou quelque chose, pour aiguiller l'utilisateur` si vous êtes intéressé par le projet Empow'her.  
 Toutefois, dans ce dépôt nous mettons à disposition deux ensembles de notebooks. Dans le dossier **notebooks-datacraft** se trouvent les notebooks que nous avons développés pour formater les données ainsi que pour en faire une première exploration. Dans le dossier **notebooks-atelier** se trouvent les codes développés par les participants[^1] pour que vous puissiez apprécier les méthodes mises en application, et éventuellement vous en inspirer, voire les reprendre pour vos projets.
 
-[^1] : Seulement les notebooks des participants qui ont présenté leur approche en fin d'atelier.
+[^1]: Seulement les notebooks des participants qui ont présenté leur approche en fin d'atelier.
 
 
 Parmi eux, Juliana Pegoraro ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `suggestion : je pense qu'il est important de mettre le prénom ET le nom de la personne !!` nous a présenté son approche utilisant un modèle de *chaîne de Markov cachée* pour identifier les états cachés les plus probables.  
