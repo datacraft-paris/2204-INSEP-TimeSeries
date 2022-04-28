@@ -8,7 +8,7 @@ Les données mises à disposition par l'INSEP concernaient deux athlètes et s'�
 
 À partir de ces données, pour chacune des deux cyclistes, l'équipe de datacraft a constitué deux jeux de données formatées prêts à l'emploi. L'un représentait essentiellement les données numériques des mesures faites pendant les entraînements, avec l'adjonction d'informations textuelles comme la phase du cycle (folliculaire, ovulatoire ou lutéale). L'autre jeu de données les réponses aux questionnaires sur les ressentis de l'athlète, données principalement textuelles mais qui se prêtaient facilement au 'label-encoding'.
 
-Pour des raisons de confidentialité nous ne pouvons pas mettre ces données à disposition et vous invitons à vous rapprocher de l'INSEP si vous êtes intéressé par le projet Empow'her.  [Leur site internet](https://labos-recherche.insep.fr/en/node/6053)
+Pour des raisons de confidentialité nous ne pouvons pas mettre ces données à disposition et vous invitons à vous rapprocher de l'INSEP si vous êtes intéressé par [le projet Empow'her](https://labos-recherche.insep.fr/en/node/6053) <br/>
 Toutefois, dans ce dépôt nous mettons à disposition deux ensembles de notebooks. Dans le dossier **notebooks-datacraft** se trouvent les notebooks que nous avons développés pour formater les données ainsi que pour en faire une première exploration. Dans le dossier **notebooks-atelier** se trouvent les codes développés par les participants[^1] pour que vous puissiez apprécier les méthodes mises en application, et éventuellement vous en inspirer, voire les reprendre pour vos projets.
 
 [^1]: Seulement les notebooks des participants qui ont présenté leur approche en fin d'atelier.
