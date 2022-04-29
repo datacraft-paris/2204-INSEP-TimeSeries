@@ -1,6 +1,6 @@
 # 2204-INSEP-TimeSeries
 
-### Bienvenue dans le dépôt de notre atelier en collaboration avec l'INSEP sur le projet Empow'her. 
+### Atelier en collaboration avec l'INSEP sur le projet Empow'her. 
 
 Dans le cadre du projet Empow'her, le thème de cet atelier portait sur ***la détection d'anomalie lors d'entraînements de cyclistes féminines de haut niveau***. Nos membres ont pu explorer les données et proposer des pistes de recherche pour étudier la question suivante : les menstruations ont-elles un impact sur les performances des athlètes ? 
 
