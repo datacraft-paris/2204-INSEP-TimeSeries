@@ -37,7 +37,7 @@ D’autres approches basées sur le clustering afin de labéliser les entraînem
 
 Merci à Juliana, François et Florent, ainsi qu'à tous les participants pour leurs approches très intéressantes. Vous trouverez ci-dessous plus d'informations concernant nos trois présentateurs :
 
-Pour Juliana : [LinkedIn](https://www.linkedin.com/in/juliana-pegoraro/ "LinkedIn Juliana"); [Mémoire de thèse](http://www.theses.fr/2021UNIP7075 "Thèse Juliana") portant sur le modèle de chaînes de Markov cachées.
+Pour Juliana : [LinkedIn](https://www.linkedin.com/in/juliana-pegoraro/ "LinkedIn Juliana"), [Mémoire de thèse](http://www.theses.fr/2021UNIP7075 "Thèse Juliana") portant sur le modèle de chaînes de Markov cachées
 
 Pour François : [LinkedIn](https://fr.linkedin.com/in/fran%C3%A7ois-guillem-358ab759)
 
